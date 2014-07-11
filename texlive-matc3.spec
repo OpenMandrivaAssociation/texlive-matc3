@@ -6,7 +6,7 @@
 # catalog-version 1.0.1
 Name:		texlive-matc3
 Version:	1.0.1
-Release:	6
+Release:	7
 Summary:	Commands for MatematicaC3 textbooks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/matc3
