@@ -1,6 +1,6 @@
 Name:		texlive-matc3
 Version:	29845
-Release:	1
+Release:	2
 Summary:	Commands for MatematicaC3 textbooks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/matc3
