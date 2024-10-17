@@ -3,7 +3,7 @@ Version:	29845
 Release:	2
 Summary:	Commands for MatematicaC3 textbooks
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/matc3
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/matc3
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/matc3.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/matc3.doc.r%{version}.tar.xz
